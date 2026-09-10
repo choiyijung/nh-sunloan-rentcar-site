@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://okhappyrent.shop/sitemap.xml
+Sitemap: https://nh-sunloan.com/sitemap.xml

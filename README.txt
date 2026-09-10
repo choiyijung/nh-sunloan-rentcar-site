@@ -1,4 +1,4 @@
-ok행복신차렌트몰 VS Code 기본본
+nh신차렌트몰 VS Code 기본본
 - index.html
 - styles.css
 - script.js
