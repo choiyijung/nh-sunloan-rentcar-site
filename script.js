@@ -1,4 +1,4 @@
-﻿document.querySelectorAll(".segmented").forEach(group => {
+document.querySelectorAll(".segmented").forEach(group => {
   const hidden = group.parentElement.querySelector('input[type="hidden"]');
 
   group.querySelectorAll("button").forEach(button => {
@@ -35,7 +35,7 @@ form?.addEventListener("submit", async (e) => {
 
   if (submitButton) {
     submitButton.disabled = true;
-    submitButton.textContent = "?묒닔 以?..";
+    submitButton.textContent = "접수 중...";
   }
 
   const isCarPage = window.location.pathname.includes("/cars/");
